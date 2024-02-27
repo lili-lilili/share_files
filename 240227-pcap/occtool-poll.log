@@ -1,0 +1,101 @@
+Sending 0x00 command to OCC0 w/1 bytes of data (via opal-prd)...
+Rsp Data Length: 0x0329
+       Status: 0x83 ( Master ObsReady ActReady)
+    ExtStatus: 0x00 
+         OCCs: 0x0F
+      CfgNeed: 0x00
+        State: 0x04 (SAFE)
+         Mode: 0x00 (0)
+Idle Pwr Save: 0x00 (0)
+       ElogID: 0x02
+     ElogAddr: 0xFFFAB050
+     Elog Len: 0x0AC0
+  Elog Source: 0x00
+   GPU config: 0x00
+   Code Level: op_p10_230622a..
+   Sensor Tag: SENSOR
+Sensor Blocks: 5
+  Sensor Vers: 1
+       Sensor: TEMP - format:16 / 38 sensors (8 bytes/sensor)
+         SSSSSSSS FF TT LL (SSSS = Sensor ID, FF is FRU type, TT is temp in C, LL is throttle temp)
+         C0000000 00 34 55  (52C core)
+         C0000001 00 33 55  (51C core)
+         C0000002 00 32 55  (50C core)
+         C0000003 00 32 55  (50C core)
+         C0000004 00 35 55  (53C core)
+         C0000005 00 35 55  (53C core)
+         C0000006 00 36 55  (54C core)
+         C0000007 00 36 55  (54C core)
+         C0000008 00 33 55  (51C core)
+         C0000009 00 34 55  (52C core)
+         C000000A 00 38 55  (56C core)
+         C000000B 00 39 55  (57C core)
+         C000000C 00 37 55  (55C core)
+         C000000D 00 37 55  (55C core)
+         C0000010 00 36 55  (54C core)
+         C0000011 00 36 55  (54C core)
+         C0000012 00 33 55  (51C core)
+         C0000013 00 33 55  (51C core)
+         C0000014 00 37 55  (55C core)
+         C0000015 00 35 55  (53C core)
+         C0000016 00 35 55  (53C core)
+         C0000017 00 35 55  (53C core)
+         C0000018 00 34 55  (52C core)
+         C0000019 00 34 55  (52C core)
+         C000001A 00 39 55  (57C core)
+         C000001B 00 39 55  (57C core)
+         C000001C 00 36 55  (54C core)
+         C000001D 00 36 55  (54C core)
+         D0010005 01 00 54  (N/A ocmb)
+         D0020005 02 22 4D  (34C dimm)
+         D0010007 01 00 54  (N/A ocmb)
+         D0020007 02 22 4D  (34C dimm)
+         D0010006 01 00 54  (N/A ocmb)
+         D0020006 02 21 4D  (33C dimm)
+         D0010004 01 00 54  (N/A ocmb)
+         D0020004 02 23 4D  (35C dimm)
+         E1000000 06 35 55  (53C vrm-vdd)
+         00000000 09 37 55  (55C proc-io)
+       Sensor: FREQ - format:2 / 1 sensors (6 bytes/sensor)
+         SSSSSSSS FFFF  (SSSS = Sensor ID, FFFF is freq in MHz)
+         00000000 07CF  (1999MHz)
+       Sensor: POWR - format:2 / 14 sensors (22 bytes/sensor)
+         SSSSSSSS FF CH rrrr TTTTTTTT AAAAAAAAAAAAAAAA CCCC  (SS=Sensor ID, FF=Function ID,
+               CH=APSS Channel, TT=Update Tag, AA=Accumulator, CC=current reading (W)
+         00000000 22 00 0000 005A2376 00000000042DFA10 000D    PCIe Total
+         00000000 05 02 0000 005A2376 000000003F60A8E3 009E    Proc 0 Vdd
+         00000000 06 03 0000 005A2376 00000000395D1174 0096    Proc 1 Vdd
+         00000000 09 04 0000 005A2376 0000000019D31BB9 0049    Proc 0 Vcs/io/pcie
+         00000000 0A 05 0000 005A2376 000000001974E083 0048    Proc 1 Vcs/io/pcie
+         00000000 00 06 0000 005A2376 0000000000000000 0000    
+         00000000 01 07 0000 005A2376 000000001E570F61 0067    Mem Proc 0
+         00000000 00 08 0000 005A2376 0000000000000000 0000    
+         00000000 00 09 0000 005A2376 0000000000000000 0000    
+         00000000 00 0A 0000 005A2376 0000000000000000 0000    
+         00000000 0D 0C 0000 005A2376 0000000007CC8A71 0016    IO A
+         00000000 10 0D 0000 005A2376 0000000004A05009 000C    Fans A
+         00000000 00 0E 0000 005A2376 0000000000000000 0000    
+         00000000 12 0F 0000 005A2376 000000001B6C36D3 004A    Storage A
+       Sensor: CAPS - format:3 / 1 sensors (15 bytes/sensor)
+         Current Power Cap:    630 Watts
+             Current Power:    677 Watts (output power)
+               N Power Cap:   1800 Watts (cap without redundant power)
+             Max Power Cap:   2240 Watts
+        Hard Min Power Cap:   1600 Watts
+        Soft Min Power Cap:    500 Watts
+            User Power Cap:    630 Watts
+        User Power Limit Source: 1
+       Sensor: EXTN - format:1 / 8 sensors (12 bytes/sensor)
+         NNNNNNNN FF 00 DDDDDDDDDDDD (NNNN = Name/Sensor ID, FF is flags, DDDD is value)
+           FMIN   00 00 7807D0000000    pSstate: 120 / 2000 MHz
+           FDIS   00 00 540A28000000    pSstate:  84 / 2600 MHz
+           FBAS   00 00 450B22000000    pSstate:  69 / 2850 MHz
+           FUT.   00 00 060F3C000000    pSstate:   6 / 3900 MHz
+           FMAX   00 00 060F3C000000    pSstate:   6 / 3900 MHz
+           FMAX   00 00 060F3C000000    OCC clip pSstate: 6, count:15, reason:
+           WOFC   00 00 FF0000000100    WOF Disabled: STATE_CHANGE
+           ERRH   00 00 110A19012001    DcomRxSlvOutbox:10, CeffRatioVdd:1, CoreSmallDroop:1
+
+Note: Unable to read elog sram data via opal, use cronus (OCC logid 0x02, addr 0xFFFAB050, len 0x0AC0)
+
+Warning: error log reported in poll response! (id: 2)
