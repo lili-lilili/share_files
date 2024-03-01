@@ -1,0 +1,2004 @@
+peltool -lhf
+
+{
+    "0x500013F9": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x500013F9",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:13:55",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x500013FA": {
+        "SRC":                  "BD122682",
+        "Message":              "OCC in safe state while active for one minute",
+        "PLID":                 "0x500013FA",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Processor Chip Cache",
+        "Commit Time":          "03/01/2024 15:13:55",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2600"
+    },
+    "0x500013FB": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x500013FB",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:13:55",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x500013FC": {
+        "SRC":                  "BD122682",
+        "Message":              "OCC in safe state while active for one minute",
+        "PLID":                 "0x500013FC",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Processor Chip Cache",
+        "Commit Time":          "03/01/2024 15:13:56",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2600"
+    },
+    "0x500013FD": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x500013FD",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:13:56",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x500013FE": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x500013FE",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:13:56",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x500013FF": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x500013FF",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:13:56",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x50001400": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x50001400",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:14:00",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x50001401": {
+        "SRC":                  "BD122682",
+        "Message":              "OCC in safe state while active for one minute",
+        "PLID":                 "0x50001401",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Processor Chip Cache",
+        "Commit Time":          "03/01/2024 15:14:00",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2600"
+    },
+    "0x50001402": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x50001402",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:14:00",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x50001403": {
+        "SRC":                  "BD122682",
+        "Message":              "OCC in safe state while active for one minute",
+        "PLID":                 "0x50001403",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Processor Chip Cache",
+        "Commit Time":          "03/01/2024 15:14:01",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2600"
+    },
+    "0x50001404": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x50001404",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:14:01",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    },
+    "0x50001405": {
+        "SRC":                  "BD752004",
+        "Message":              "Unknown (Original event not in message registry)",
+        "PLID":                 "0x50001405",
+        "CreatorID":            "BMC",
+        "Subsystem":            "Not Applicable",
+        "Commit Time":          "03/01/2024 15:14:01",
+        "Sev":                  "Informational Event",
+        "CompID":               "0x2000"
+    }
+}
+
+
+
+
+
+
+peltool -ahf
+
+[
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:13:55",
+    "Committed at":             "03/01/2024 15:13:55",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013F9",
+    "Entry Id":                 "0x500013F9",
+    "BMC Event Log Id":         "4548"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 14s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "0",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "01FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ2",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis 200",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Chassis/chassis ::ffff:100.2.107.4",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [INFO \"chassis.hpp\":158] DBUS error: no matched iface generic:5",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [ERROR \"chassis.hpp\":852] Failed to get ObjectPath: 53",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [ERROR \"chassis.hpp\":1019] DBus response error for HotPluggable: generic:53",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis/chassis 200",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Chassis/chassis/Power ::ffff:100.2.107.4",
+        "Mar 01 15:12:58 bmcweb[853]: (2024-03-01 07:12:58) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis/chassis/Power 200",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/ 200",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Chassis ::ffff:100.2.107.4",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis 200",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Chassis/chassis ::ffff:100.2.107.4",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"chassis.hpp\":158] DBUS error: no matched iface generic:5",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [ERROR \"chassis.hpp\":852] Failed to get ObjectPath: 53",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [ERROR \"chassis.hpp\":1019] DBus response error for HotPluggable: generic:53",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis/chassis 200",
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Chassis/chassis/Power ::ffff:100.2.107.4",
+        "Mar 01 15:13:01 bmcweb[853]: (2024-03-01 07:13:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis/chassis/Power 200",
+        "Mar 01 15:13:09 systemd[1]: Starting Rotates the event logs...",
+        "Mar 01 15:13:09 systemd[1]: rotate-event-logs.service: Deactivated successfully.",
+        "Mar 01 15:13:09 systemd[1]: Finished Rotates the event logs.",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC2 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC2: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:55 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:55 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "..."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2600",
+    "Created at":               "03/01/2024 15:13:55",
+    "Committed at":             "03/01/2024 15:13:55",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013FA",
+    "Entry Id":                 "0x500013FA",
+    "BMC Event Log Id":         "583"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Processor Chip Cache",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2600",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "OCC in safe state while active for one minute"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD122682",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000"
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD122682_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 14s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/openpower-occ-control",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "OCC": "2",
+    "_PID": "653"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 14:38:33 openpower-occ-control[653]: clearData: Clearing sensorToOCCInstance (4 entries)",
+        "Mar 01 14:38:33 openpower-occ-control[653]: clearData: OCC0 / sensorID: 0x55BA",
+        "Mar 01 14:38:34 openpower-occ-control[653]: clearData: OCC1 / sensorID: 0x55BC",
+        "Mar 01 14:38:34 openpower-occ-control[653]: clearData: OCC2 / sensorID: 0x55BE",
+        "Mar 01 14:38:34 openpower-occ-control[653]: clearData: OCC3 / sensorID: 0x55C0",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC0 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC0 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Manager: OCCs will be polled every 5 seconds",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC1 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC1 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC2 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC2 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC3 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC3 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: validateOccMaster: OCC0 is master of 4 OCCs",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x03 (lastState: 0x00)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC2 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC2: org.open_power.OCC.Device.SafeState"
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:13:55",
+    "Committed at":             "03/01/2024 15:13:55",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013FB",
+    "Entry Id":                 "0x500013FB",
+    "BMC Event Log Id":         "4549"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 15s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "1",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "01FFFF",
+    "SENSOR_PATH": "/com/inspur/system/chassis/Sys_Health",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:13:00 bmcweb[853]: (2024-03-01 07:13:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Chassis/chassis/Power ::ffff:100.2.107.4",
+        "Mar 01 15:13:01 bmcweb[853]: (2024-03-01 07:13:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Chassis/chassis/Power 200",
+        "Mar 01 15:13:09 systemd[1]: Starting Rotates the event logs...",
+        "Mar 01 15:13:09 systemd[1]: rotate-event-logs.service: Deactivated successfully.",
+        "Mar 01 15:13:09 systemd[1]: Finished Rotates the event logs.",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC2 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC2: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:55 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:55 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Created PEL 0x500013f9 (BMC ID 4548) with SRC BD752004",
+        "Mar 01 15:13:55 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ2, record type: 2, generator id: 32, sel data: 01FFFF, assert: False",
+        "Mar 01 15:13:55 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Created PEL 0x500013fa (BMC ID 583) with SRC BD122682",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Status::occActive OCC2 changed to false",
+        "Mar 01 15:13:55 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:55 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC2",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:55 openpower-occ-control[653]: pldm: got new InstanceId: 0",
+        "Mar 01 15:13:55 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC3 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC3: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        ".."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2600",
+    "Created at":               "03/01/2024 15:13:56",
+    "Committed at":             "03/01/2024 15:13:56",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013FC",
+    "Entry Id":                 "0x500013FC",
+    "BMC Event Log Id":         "584"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Processor Chip Cache",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2600",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "OCC in safe state while active for one minute"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD122682",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000"
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD122682_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 15s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/openpower-occ-control",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "OCC": "3",
+    "_PID": "653"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC0 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Manager: OCCs will be polled every 5 seconds",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC1 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC1 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC2 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC2 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC3 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC3 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: validateOccMaster: OCC0 is master of 4 OCCs",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x03 (lastState: 0x00)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC2 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC2: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Status::occActive OCC2 changed to false",
+        "Mar 01 15:13:55 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: pldm: got new InstanceId: 0",
+        "Mar 01 15:13:55 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC3 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC3: org.open_power.OCC.Device.SafeState"
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:13:56",
+    "Committed at":             "03/01/2024 15:13:56",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013FD",
+    "Entry Id":                 "0x500013FD",
+    "BMC Event Log Id":         "4550"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 15s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "1",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "00FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ2",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:13:55 openpower-occ-control[653]: Status::occActive OCC2 changed to false",
+        "Mar 01 15:13:55 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:55 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC2",
+        "Mar 01 15:13:55 bmcweb[853]: (2024-03-01 07:13:55) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:55 openpower-occ-control[653]: pldm: got new InstanceId: 0",
+        "Mar 01 15:13:55 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC3 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC3: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fb (BMC ID 4549) with SRC BD752004",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: Add SEL: sensor path: /com/inspur/system/chassis/Sys_Health, record type: 2, generator id: 32, sel data: 01FFFF, assert: True",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [CRITICAL \"http_connection.hpp\":588] 0 Failed to capture connection",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fc (BMC ID 584) with SRC BD122682",
+        "Mar 01 15:13:56 openpower-occ-control[653]: Status::occActive OCC3 changed to false",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:13:56 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC3",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 openpower-occ-control[653]: pldm: got new InstanceId: 1",
+        "Mar 01 15:13:56 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC3",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "..."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:13:56",
+    "Committed at":             "03/01/2024 15:13:56",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013FE",
+    "Entry Id":                 "0x500013FE",
+    "BMC Event Log Id":         "4551"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 15s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "0",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "01FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ3",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:13:55 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fb (BMC ID 4549) with SRC BD752004",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: Add SEL: sensor path: /com/inspur/system/chassis/Sys_Health, record type: 2, generator id: 32, sel data: 01FFFF, assert: True",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [CRITICAL \"http_connection.hpp\":588] 0 Failed to capture connection",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fc (BMC ID 584) with SRC BD122682",
+        "Mar 01 15:13:56 openpower-occ-control[653]: Status::occActive OCC3 changed to false",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:13:56 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC3",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 openpower-occ-control[653]: pldm: got new InstanceId: 1",
+        "Mar 01 15:13:56 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC3",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fd (BMC ID 4550) with SRC BD752004",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ2, record type: 2, generator id: 32, sel data: 00FFFF, assert: True",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "..."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:13:56",
+    "Committed at":             "03/01/2024 15:13:56",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x500013FF",
+    "Entry Id":                 "0x500013FF",
+    "BMC Event Log Id":         "4552"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.35 0.41 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 16s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "1",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "00FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ3",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [CRITICAL \"http_connection.hpp\":588] 0 Failed to capture connection",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fc (BMC ID 584) with SRC BD122682",
+        "Mar 01 15:13:56 openpower-occ-control[653]: Status::occActive OCC3 changed to false",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:13:56 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC3",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 openpower-occ-control[653]: pldm: got new InstanceId: 1",
+        "Mar 01 15:13:56 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC3",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fd (BMC ID 4550) with SRC BD752004",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ2, record type: 2, generator id: 32, sel data: 00FFFF, assert: True",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Created PEL 0x500013fe (BMC ID 4551) with SRC BD752004",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ3, record type: 2, generator id: 32, sel data: 01FFFF, assert: False",
+        "Mar 01 15:13:56 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "..."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:14:00",
+    "Committed at":             "03/01/2024 15:14:00",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x50001400",
+    "Entry Id":                 "0x50001400",
+    "BMC Event Log Id":         "4553"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.40 0.42 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 19s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "0",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "01FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ1",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:13:56 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:13:56 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:56 bmcweb[853]: (2024-03-01 07:13:56) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:56 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:13:57 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:13:57 phosphor-log-manager[538]: Created PEL 0x500013ff (BMC ID 4552) with SRC BD752004",
+        "Mar 01 15:13:57 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ3, record type: 2, generator id: 32, sel data: 00FFFF, assert: True",
+        "Mar 01 15:13:57 bmcweb[853]: (2024-03-01 07:13:57) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:13:57 bmcweb[853]: (2024-03-01 07:13:57) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:13:57 phosphor-log-manager[538]: Attempting command retry",
+        "Mar 01 15:13:57 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:13:57 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:13:58 phosphor-log-manager[538]: Attempting command retry",
+        "Mar 01 15:13:58 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:13:58 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:13:59 phosphor-log-manager[538]: Attempting command retry",
+        "Mar 01 15:13:59 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:13:59 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Attempting command retry",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC1 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC1: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:14:00 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:14:00 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:00 systemd[1]: Starting Rotates the event logs...",
+        "Mar 01 15:14:00 systemd[1]: rotate-event-logs.service: Deactivated successfully.",
+        "Mar 01 15:14:00 systemd[1]: Finished Rotates the event logs.",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2600",
+    "Created at":               "03/01/2024 15:14:00",
+    "Committed at":             "03/01/2024 15:14:00",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x50001401",
+    "Entry Id":                 "0x50001401",
+    "BMC Event Log Id":         "585"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Processor Chip Cache",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2600",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "OCC in safe state while active for one minute"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD122682",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000"
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD122682_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.40 0.42 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 19s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/openpower-occ-control",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "OCC": "1",
+    "_PID": "653"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC2 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: PLDM: OCC3 is RUNNING",
+        "Mar 01 14:41:25 openpower-occ-control[653]: Status::occActive OCC3 changed to true",
+        "Mar 01 14:41:25 openpower-occ-control[653]: validateOccMaster: OCC0 is master of 4 OCCs",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x03 (lastState: 0x00)",
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x03 (lastState: 0x00)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC2 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC2: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Status::occActive OCC2 changed to false",
+        "Mar 01 15:13:55 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: pldm: got new InstanceId: 0",
+        "Mar 01 15:13:55 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC3 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC3: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:56 openpower-occ-control[653]: Status::occActive OCC3 changed to false",
+        "Mar 01 15:13:56 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC3",
+        "Mar 01 15:13:56 openpower-occ-control[653]: pldm: got new InstanceId: 1",
+        "Mar 01 15:13:56 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC3",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC1 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC1: org.open_power.OCC.Device.SafeState"
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:14:00",
+    "Committed at":             "03/01/2024 15:14:00",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x50001402",
+    "Entry Id":                 "0x50001402",
+    "BMC Event Log Id":         "4554"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.40 0.42 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 20s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "1",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "00FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ1",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Bad PLDM completion code",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: PLDM command response failure",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC1 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC1: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:14:00 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:14:00 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:00 systemd[1]: Starting Rotates the event logs...",
+        "Mar 01 15:14:00 systemd[1]: rotate-event-logs.service: Deactivated successfully.",
+        "Mar 01 15:14:00 systemd[1]: Finished Rotates the event logs.",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:14:00 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [CRITICAL \"http_connection.hpp\":588] 0 Failed to capture connection",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Created PEL 0x50001400 (BMC ID 4553) with SRC BD752004",
+        "Mar 01 15:14:00 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ1, record type: 2, generator id: 32, sel data: 01FFFF, assert: False",
+        "Mar 01 15:14:00 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Created PEL 0x50001401 (BMC ID 585) with SRC BD122682",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Status::occActive OCC1 changed to false",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:00 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC1",
+        "Mar 01 15:14:00 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:00 openpower-occ-control[653]: pldm: got new InstanceId: 2",
+        "Mar 01 15:14:00 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:14, 8 bytes) for OCC1",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC0 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC0: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "..."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2600",
+    "Created at":               "03/01/2024 15:14:01",
+    "Committed at":             "03/01/2024 15:14:01",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x50001403",
+    "Entry Id":                 "0x50001403",
+    "BMC Event Log Id":         "586"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Processor Chip Cache",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2600",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "OCC in safe state while active for one minute"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD122682",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000"
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD122682_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.40 0.42 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 20s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/openpower-occ-control",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "OCC": "0",
+    "_PID": "653"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 14:41:30 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x03 (lastState: 0x00)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC2 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:12:55 openpower-occ-control[653]: Status::readOccState: OCC3 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC0 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:00 openpower-occ-control[653]: Status::readOccState: OCC1 state 0x04 (lastState: 0x03)",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC2 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC2: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Status::occActive OCC2 changed to false",
+        "Mar 01 15:13:55 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: pldm: got new InstanceId: 0",
+        "Mar 01 15:13:55 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC2",
+        "Mar 01 15:13:55 openpower-occ-control[653]: safeStateDelayExpired: OCC3 is in SAFE state, requesting reset",
+        "Mar 01 15:13:55 openpower-occ-control[653]: Creating OCC Reset PEL for OCC3: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:13:56 openpower-occ-control[653]: Status::occActive OCC3 changed to false",
+        "Mar 01 15:13:56 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC3",
+        "Mar 01 15:13:56 openpower-occ-control[653]: pldm: got new InstanceId: 1",
+        "Mar 01 15:13:56 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:20, 8 bytes) for OCC3",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC1 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC1: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Status::occActive OCC1 changed to false",
+        "Mar 01 15:14:00 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC1",
+        "Mar 01 15:14:00 openpower-occ-control[653]: pldm: got new InstanceId: 2",
+        "Mar 01 15:14:00 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:14, 8 bytes) for OCC1",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC0 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC0: org.open_power.OCC.Device.SafeState"
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:14:01",
+    "Committed at":             "03/01/2024 15:14:01",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x50001404",
+    "Entry Id":                 "0x50001404",
+    "BMC Event Log Id":         "4555"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.40 0.42 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 20s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "0",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "01FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ0",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:14:00 openpower-occ-control[653]: Status::occActive OCC1 changed to false",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:00 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC1",
+        "Mar 01 15:14:00 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:00 bmcweb[853]: (2024-03-01 07:14:00) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:00 openpower-occ-control[653]: pldm: got new InstanceId: 2",
+        "Mar 01 15:14:00 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:14, 8 bytes) for OCC1",
+        "Mar 01 15:14:00 openpower-occ-control[653]: safeStateDelayExpired: OCC0 is in SAFE state, requesting reset",
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC0: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Created PEL 0x50001402 (BMC ID 4554) with SRC BD752004",
+        "Mar 01 15:14:01 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ1, record type: 2, generator id: 32, sel data: 00FFFF, assert: True",
+        "Mar 01 15:14:01 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [CRITICAL \"http_connection.hpp\":588] 0 Failed to capture connection",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Created PEL 0x50001403 (BMC ID 586) with SRC BD122682",
+        "Mar 01 15:14:01 openpower-occ-control[653]: Status::occActive OCC0 changed to false",
+        "Mar 01 15:14:01 openpower-occ-control[653]: Manager::statusCallBack(): OCCs are not running, stopping poll timer",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC0",
+        "Mar 01 15:14:01 openpower-occ-control[653]: pldm: got new InstanceId: 3",
+        "Mar 01 15:14:01 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:7, 8 bytes) for OCC0",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "..."
+    ]
+}
+}
+,
+
+{
+"Private Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Created at":               "03/01/2024 15:14:01",
+    "Committed at":             "03/01/2024 15:14:01",
+    "Creator Subsystem":        "BMC",
+    "CSSVER":                   "",
+    "Platform Log Id":          "0x50001405",
+    "Entry Id":                 "0x50001405",
+    "BMC Event Log Id":         "4556"
+},
+"User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Log Committed by":         "0x2000",
+    "Subsystem":                "Not Applicable",
+    "Event Scope":              "Entire Platform",
+    "Event Severity":           "Informational Event",
+    "Event Type":               "Miscellaneous, Informational Only",
+    "Action Flags": [
+                                "Event not customer viewable",
+                                "Report Externally"
+    ],
+    "Host Transmission":        "Not Sent",
+    "HMC Transmission":         "Not Sent"
+},
+"Primary SRC": {
+    "Section Version":          "1",
+    "Sub-section type":         "1",
+    "Created by":               "0x2000",
+    "SRC Version":              "0x02",
+    "SRC Format":               "0x55",
+    "Virtual Progress SRC":     "False",
+    "I5/OS Service Event Bit":  "False",
+    "Hypervisor Dump Initiated":"False",
+    "Backplane CCIN":           "232D",
+    "Terminate FW Error":       "False",
+    "Deconfigured":             "False",
+    "Guarded":                  "False",
+    "Error Details": {
+        "Message":              "Unknown (Original event not in message registry)"
+    },
+    "Valid Word Count":         "0x09",
+    "Reference Code":           "BD752004",
+    "Hex Word 2":               "00080055",
+    "Hex Word 3":               "232D0010",
+    "Hex Word 4":               "CC009544",
+    "Hex Word 5":               "00000000",
+    "Hex Word 6":               "00000000",
+    "Hex Word 7":               "00000000",
+    "Hex Word 8":               "00000000",
+    "Hex Word 9":               "00000000",
+    "Callout Section": {
+        "Callout Count":        "1",
+        "Callouts": [{
+            "FRU Type":         "Maintenance Procedure Required",
+            "Priority":         "Mandatory, replace all with this type as a unit",
+            "Procedure":        "BMC0001"
+        }]
+    }
+},
+"Extended User Header": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Reporting Machine Type":   "K1 Power",
+    "Reporting Serial Number":  "NULL",
+    "FW Released Ver":          "",
+    "FW SubSys Version":        "4.10.00",
+    "Common Ref Time":          "00/00/0000 00:00:00",
+    "Symptom Id Len":           "20",
+    "Symptom Id":               "BD752004_232D0010"
+},
+"Failing MTMS": {
+    "Section Version":          "1",
+    "Sub-section type":         "0",
+    "Created by":               "0x2000",
+    "Machine Type Model":       "K1 Power",
+    "Serial Number":            "NULL"
+},
+"User Data 0": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "BMCLoad": "0.40 0.42 0.56",
+    "BMCState": "Ready",
+    "BMCUptime": "0y 1d 5h 23m 20s",
+    "BootState": "OSRunning",
+    "ChassisState": "On",
+    "FW Version ID": "4.10.00",
+    "HostState": "Running",
+    "Process Name": "/usr/bin/inspur-sel-handler",
+    "System IM": "60001000"
+},
+"User Data 1": {
+    "Section Version": "1",
+    "Sub-section type": "1",
+    "Created by": "0x2000",
+    "ERROR_NAME": "xyz.openbmc_project.Logging.SEL.Error.Created",
+    "EVENT_DIR": "1",
+    "GENERATOR_ID": "32",
+    "RECORD_TYPE": "2",
+    "SENSOR_DATA": "00FFFF",
+    "SENSOR_PATH": "/org/open_power/control/occ0",
+    "_PID": "457"
+},
+"User Data 2": {
+    "Section Version": "1",
+    "Sub-section type": "3",
+    "Created by": "0x2000",
+    "Data": [
+        "Mar 01 15:14:00 openpower-occ-control[653]: Creating OCC Reset PEL for OCC0: org.open_power.OCC.Device.SafeState",
+        "Mar 01 15:14:00 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Created PEL 0x50001402 (BMC ID 4554) with SRC BD752004",
+        "Mar 01 15:14:01 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ1, record type: 2, generator id: 32, sel data: 00FFFF, assert: True",
+        "Mar 01 15:14:01 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [CRITICAL \"http_connection.hpp\":588] 0 Failed to capture connection",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Created PEL 0x50001403 (BMC ID 586) with SRC BD122682",
+        "Mar 01 15:14:01 openpower-occ-control[653]: Status::occActive OCC0 changed to false",
+        "Mar 01 15:14:01 openpower-occ-control[653]: Manager::statusCallBack(): OCCs are not running, stopping poll timer",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 openpower-occ-control[653]: >>Status::resetOCC() - requesting reset for OCC0",
+        "Mar 01 15:14:01 openpower-occ-control[653]: pldm: got new InstanceId: 3",
+        "Mar 01 15:14:01 openpower-occ-control[653]: sendPldm: calling pldm_send(mctpID:10, fd:7, 8 bytes) for OCC0",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Created PEL 0x50001404 (BMC ID 4555) with SRC BD752004",
+        "Mar 01 15:14:01 inspur-sel-handler[457]: Add SEL: sensor path: /org/open_power/control/occ0, record type: 2, generator id: 32, sel data: 01FFFF, assert: False",
+        "Mar 01 15:14:01 inspur-sel-handler[457]: A System Event Log is created",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"http_connection.hpp\":207] Request:  0x1d86838 HTTP/1.1 GET /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ ::ffff:100.2.107.4",
+        "Mar 01 15:14:01 bmcweb[853]: (2024-03-01 07:14:01) [INFO \"complete_response_fields.hpp\":73] Response:  /redfish/v1/Managers/bmc/Oem/Inspur/AlarmEvent/ 200",
+        "Mar 01 15:14:01 phosphor-log-manager[538]: Event not found in PEL message registry: xyz.openbmc_project.Logging.SEL.Error.Created",
+        "Mar 01 15:14:01 systemd[1]: systemd-journald.service: Sent signal SIGRTMIN+1 to main process 345 (systemd-journal) on client request.",
+        "..."
+    ]
+}
+}
+]
+
