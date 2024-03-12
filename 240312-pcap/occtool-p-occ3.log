@@ -1,0 +1,73 @@
+Sending 0x00 command to OCC3 w/1 bytes of data (via opal-prd)...
+Rsp Data Length: 0x01C6
+       Status: 0x03 ( ObsReady ActReady)
+    ExtStatus: 0x00 
+         OCCs: 0x08
+      CfgNeed: 0x00
+        State: 0x04 (SAFE)
+         Mode: 0x00 (0)
+Idle Pwr Save: 0x00 (0)
+       ElogID: 0x02
+     ElogAddr: 0xFFFAB050
+     Elog Len: 0x0AC0
+  Elog Source: 0x00
+   GPU config: 0x00
+   Code Level: op_p10_230622a..
+   Sensor Tag: SENSOR
+Sensor Blocks: 3
+  Sensor Vers: 1
+       Sensor: TEMP - format:16 / 36 sensors (8 bytes/sensor)
+         SSSSSSSS FF TT LL (SSSS = Sensor ID, FF is FRU type, TT is temp in C, LL is throttle temp)
+         C0000000 00 36 55  (54C core)
+         C0000001 00 35 55  (53C core)
+         C0000002 00 35 55  (53C core)
+         C0000003 00 35 55  (53C core)
+         C0000004 00 3A 55  (58C core)
+         C0000005 00 3B 55  (59C core)
+         C0000006 00 36 55  (54C core)
+         C0000007 00 36 55  (54C core)
+         C0000008 00 35 55  (53C core)
+         C0000009 00 35 55  (53C core)
+         C000000C 00 36 55  (54C core)
+         C000000D 00 36 55  (54C core)
+         C000000E 00 36 55  (54C core)
+         C000000F 00 36 55  (54C core)
+         C0000010 00 34 55  (52C core)
+         C0000011 00 34 55  (52C core)
+         C0000014 00 35 55  (53C core)
+         C0000015 00 36 55  (54C core)
+         C0000016 00 35 55  (53C core)
+         C0000017 00 34 55  (52C core)
+         C0000018 00 38 55  (56C core)
+         C0000019 00 38 55  (56C core)
+         C000001A 00 35 55  (53C core)
+         C000001B 00 34 55  (52C core)
+         C000001C 00 34 55  (52C core)
+         C000001D 00 34 55  (52C core)
+         C000001E 00 34 55  (52C core)
+         C000001F 00 34 55  (52C core)
+         D001000B 01 00 54  (N/A ocmb)
+         D002000B 02 28 4D  (40C dimm)
+         D0010009 01 00 54  (N/A ocmb)
+         D0020009 02 26 4D  (38C dimm)
+         D001000A 01 00 54  (N/A ocmb)
+         D002000A 02 28 4D  (40C dimm)
+         E1000001 06 27 55  (39C vrm-vdd)
+         00000000 09 38 55  (56C proc-io)
+       Sensor: FREQ - format:2 / 1 sensors (6 bytes/sensor)
+         SSSSSSSS FFFF  (SSSS = Sensor ID, FFFF is freq in MHz)
+         00000000 07CF  (1999MHz)
+       Sensor: EXTN - format:1 / 8 sensors (12 bytes/sensor)
+         NNNNNNNN FF 00 DDDDDDDDDDDD (NNNN = Name/Sensor ID, FF is flags, DDDD is value)
+           FMIN   00 00 7807D0000000    pSstate: 120 / 2000 MHz
+           FDIS   00 00 540A28000000    pSstate:  84 / 2600 MHz
+           FBAS   00 00 450B22000000    pSstate:  69 / 2850 MHz
+           FUT.   00 00 060F3C000000    pSstate:   6 / 3900 MHz
+           FMAX   00 00 060F3C000000    pSstate:   6 / 3900 MHz
+           FMAX   00 00 060F3C000000    OCC clip pSstate: 6, count:15, reason:
+           WOFC   00 00 FF0000000100    WOF Disabled: STATE_CHANGE
+           ERRH   00 00 201124012501    CoreSmallDroop:17, DcomSlvInIncomplete:1, DcomSlvLostConn:1
+
+Note: Unable to read elog sram data via opal, use cronus (OCC logid 0x02, addr 0xFFFAB050, len 0x0AC0)
+
+Warning: error log reported in poll response! (id: 2)
